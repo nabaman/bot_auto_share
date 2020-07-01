@@ -1,4 +1,4 @@
-# bot_auto_share
+# bot_auto_share Facebook
 
 requirements
 - python3.5 +
